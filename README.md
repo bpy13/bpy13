@@ -1,6 +1,6 @@
 ## Hi, I'm Brian Yu
 
-PhD physicist (UCL) and Python engineer in Hong Kong. At UBS I designed and built a
+PhD astrophysicist (UCL) and Python engineer in Hong Kong. At UBS I designed and built a
 LangGraph multi-agent backend used by ~4,000 Client Advisors. Before that I took
 fraud-detection and handwritten-OCR models into production at ASTRI.
 
