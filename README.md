@@ -9,4 +9,4 @@ fraud-detection and handwritten-OCR models into production at ASTRI.
 - [big2](https://github.com/bpy13/big2) – Big Two solver and RL lab: Rust engine, ISMCTS search, PPO/DMC self-play
 - [stock-advisor](https://github.com/bpy13/stock-advisor) – buy/sell/hold signals with per-indicator backtests
 
-[LinkedIn](https://www.linkedin.com/in/by2) · briandyu@gmail.com
+[www.linkedin.com/in/by2](https://www.linkedin.com/in/by2) · briandyu@gmail.com
